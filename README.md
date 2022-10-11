@@ -9,9 +9,9 @@ Import pandas as pd.
 ### Step 2:
 Read the contents in the CSV file using read_csv().
 ### Step 3:
-Use head() method to get the contents from the starting of the file. 
+Use head() to get the contents from the starting of the file. 
 ### Step 4:
-Use tail() method to get the contents from the end of file.
+Use tail() to get the contents from the end of file.
 ### Step 5:
 Use len() to get the number of rows and columns.
 
